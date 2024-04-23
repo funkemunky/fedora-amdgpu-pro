@@ -1,9 +1,9 @@
 %define _build_id_links none
 
 # global info
-%global repo 5.7.2
-%global major 23.30
-%global minor 1684442
+%global repo 6.0.3
+%global major 23.40
+%global minor 1741713
 # pkg info
 %global amf 1.4.32
 %global enc 1.0
